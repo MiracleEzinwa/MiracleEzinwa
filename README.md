@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JS SWIFT PHP SQL and TAILWIND
 - 💞️ I’m looking to collaborate with anyone that wants collaboration
 - 📫 Reach me via X @ x.com/urdevpr
-- 😄 Pronouns: None
+- 😄 Pronouns: 😴
 - ⚡ Fun fact: Just work and play basketball
 
 <!---
