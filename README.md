@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MiracleEzinwa
 - 👀 I’m wearing the world a new dress CODE
-- 🌱 I’m currently learning JS SWIFT PHP SQL and TAILWIND
+- 🌱 I’m currently learning Node.js Python SWIFT PHP and Deno
 - 💞️ I’m looking to collaborate with anyone that wants collaboration
 - 📫 Reach me via X @ x.com/urdevpr
 - 😄 Pronouns: 😴
